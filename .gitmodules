@@ -4,3 +4,9 @@
 [submodule "packer"]
 	path = packer
 	url = https://wan0net@github.com/wan0net/sietch-packer
+[submodule "k8s"]
+	path = k8s
+	url = https://wan0net@github.com/wan0net/sietch-k8s
+[submodule "terraform"]
+	path = terraform
+	url = https://wan0net@github.com/wan0net/sietch-terraform
