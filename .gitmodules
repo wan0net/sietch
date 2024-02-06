@@ -1,0 +1,6 @@
+[submodule "docker"]
+	path = docker
+	url = https://wan0net@github.com/wan0net/sietch-docker
+[submodule "packer"]
+	path = packer
+	url = https://wan0net@github.com/wan0net/sietch-packer
